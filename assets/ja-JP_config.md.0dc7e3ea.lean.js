@@ -1,0 +1,1 @@
+import{_ as e,t as a,v as o,S as l}from"./chunks/framework.dbf0e487.js";const f=JSON.parse('{"title":"配置项","description":"","frontmatter":{},"headers":[],"relativePath":"ja-JP/config.md"}'),i={name:"ja-JP/config.md"},c=l("",39),t=[c];function d(r,n,s,h,u,p){return a(),o("div",null,t)}const m=e(i,[["render",d]]);export{f as __pageData,m as default};
